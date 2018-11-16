@@ -12,12 +12,12 @@
 * 老哥
 * 老哥
 
-**相关教程**
-[Markdown写作(wiki)](https://zh.m.wikiversity.org/wiki/Markdown)
-[Markdown(百度百科)](https://baike.baidu.com/item/markdown)
+**相关教程**  
+[Markdown写作(wiki)](https://zh.m.wikiversity.org/wiki/Markdown)  
+[Markdown(百度百科)](https://baike.baidu.com/item/markdown)  
 
-**git简易教程**
-[综合教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)
-[注册账号/关联远端仓库](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)
+**git简易教程**  
+[综合教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000#0)  
+[注册账号/关联远端仓库](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)  
 [add/commit/push素质三连](http://rogerdudler.github.io/git-guide/index.zh.html)
 [色图](https://github.com)
